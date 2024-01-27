@@ -15,7 +15,7 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720](https://github.com/loco0011/Portfolio/blob/main/Portfolio%20Video.mp4)
-![ss](https://github.com/loco0011/Portfolio/commit/bf17ddf44ae72d5aa00fc52462c670581ec9658d)
+![ss](https://github.com/loco0011/Portfolio/blob/main/portfoliodemo.png)
 
 
 <h2>📬 Contact</h2>

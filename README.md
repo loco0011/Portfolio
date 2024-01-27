@@ -27,4 +27,4 @@ Contact me through the below handles.
 
 © 2024 Sambit Maity
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
